@@ -15,7 +15,8 @@ int main(void) {
             cost= 70 + ((diff / 500) + 1) * 5;
     }
     printf("總共車資為: %d 元", cost);
-    printf("\n");
+    printf("總共車資為: %d 元", cost);
+	  printf("\n");
     return 0;
 }
 
